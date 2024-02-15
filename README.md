@@ -10,5 +10,6 @@
 
 - ## 📌 Highlighted Projects
 - [Grime Guard Company Website](https://github.com/dseehappy/grime-Guard-Janitorial-Services) - Clean modern design to accentuate the cleaning service the company provides.
+- [Media Manager](https://github.com/dseehappy/MediaManager) - Upload/Download Manager
 
 ⭐ From [dseehappy](https://github.com/dseehappy)
