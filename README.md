@@ -8,6 +8,8 @@
 - **Design**: Photoshop, UI | UX Principles
 - **Other Skills**: Spanish (Fluent), Photography
 
-
+# UI Design examples
+High View Seamless Gutters https://coloradogutter.com
+Near Me Car Care https://nearmecarcare.com
 
 ⭐ From [dseehappy](https://github.com/dseehappy)
