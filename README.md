@@ -1,15 +1,20 @@
-# Hi! I'm Juan Daniel Sanchez Chavez (but you can call me Daniel) 👋
+Hi, I'm Daniel Sanchez 👋
+Full-stack developer with a background in mobile, web, and backend engineering. I enjoy building clean, performant applications and have a strong eye for design and user experience.
+🛠 Tech Stack
+Languages: Go · Kotlin · Dart · Python · JavaScript · TypeScript
+Frontend: React · Next.js · Gatsby · TailwindCSS · SCSS · HTML/CSS
+Mobile: Flutter · Android (Kotlin)
+Backend: Go (Encore) · Node.js · Express · REST APIs
+Auth & Infrastructure: OAuth · JWT · Docker · CI/CD
+Design: Photoshop · UI/UX Principles · Responsive Design
+Other: Spanish (Native) · Photography
+🚀 What I'm Working On
 
+Sharpening my Go and systems design skills
+Building full-stack apps with Next.js + Go backends
+Pursuing my MS in Computer Science at CU Boulder
 
-## 🛠 Technologies & Tools
-- **Mobile**: Flutter, Android
-- **Web**: HTML, CSS, React, NextJs, Gatsby, TailWindCSS, SCSS
-- **Languages**: Kotlin, Dart, Python, Go, JavaScript
-- **Design**: Photoshop, UI | UX Principles
-- **Other Skills**: Spanish (Fluent), Photography
+📫 Let's Connect
+Always open to interesting projects and conversations.
 
-# UI Design examples
-High View Seamless Gutters https://coloradogutter.com
-Near Me Car Care https://nearmecarcare.com
-
-⭐ From [dseehappy](https://github.com/dseehappy)
+⭐ From dseehappy
